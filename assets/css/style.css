@@ -1,0 +1,11 @@
+body{ background-color: beige;
+}
+
+.resize {
+    width: 400px;
+    height: auto;
+}
+
+div .img{ width:10px;
+        height: 20px;
+    } 
