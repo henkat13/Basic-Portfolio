@@ -47,7 +47,11 @@ body {
   
   h2,
   h3 {
-    font-size: 22px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #dddddd;
+    
   }
   
   /* header */
